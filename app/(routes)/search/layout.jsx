@@ -1,5 +1,5 @@
 import React from "react";
-import CategorySideBar from "./_components/CategorySidebar";
+import CategorySideBar from "./_components/CategorySideBar";
 
 function layout({ children }) {
   return (
